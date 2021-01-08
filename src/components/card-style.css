@@ -1,0 +1,62 @@
+body {
+    background: radial-gradient(#e5e5e5, #ffff, #e5e5e5);
+}
+
+.id {
+    background-color: rgb(159, 189, 159);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.container {
+    background-color: #fff;
+    padding-bottom: 3rem;
+}
+
+/* .navbar{
+    background: #fff;
+    height: 30px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    max-width: 1500px;
+}
+
+.menu-icon {
+    display: none;
+} */
+
+.card {
+    width: 20rem;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+.container-fluid .row {
+    padding-top: 3rem;
+}
+/* 
+.card-img-top {
+    transform: scale(1);
+} */
